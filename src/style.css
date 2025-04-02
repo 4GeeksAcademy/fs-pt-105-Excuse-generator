@@ -1,5 +1,12 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 50px;
+    text-align: center;
+    padding: 2px;
 }
+.col-red{background-color: rgb(144, 255, 153);}
+.col-blue{background-color: rgb(72, 187, 253);}
+.col-yellow{background-color: rgb(243, 243, 134);}
